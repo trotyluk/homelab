@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Macbook .DS_Store file
+.DS_Store
+# Macos meta files ._*
+._*
